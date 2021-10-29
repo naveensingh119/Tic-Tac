@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic_Tac</string>
+    <string name="player1">Player1</string>
+    <string name="player2">Player2</string>
+    <string name="start">Start</string>
+    <string name="play_again">Play Again</string>
+</resources>
